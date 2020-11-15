@@ -1,0 +1,6 @@
+14:18:08.224 [TestNG-tests-4] INFO  resources.base - Juan Manuel
+14:18:12.242 [TestNG-tests-5] INFO  resources.base - RegisterAnUser-Successfully Register button clicked
+14:18:12.303 [TestNG-tests-5] INFO  resources.base - RegisterAnUser-Register form displayed
+14:18:12.457 [TestNG-tests-3] INFO  resources.base - HomePage-Successfully user has logged
+14:18:13.565 [TestNG-tests-5] INFO  resources.base - RegisterAnUser-Successfully user register
+14:18:16.245 [TestNG-tests-3] INFO  resources.base - HomePage-Successfully user has logged
